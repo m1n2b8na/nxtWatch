@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.container {
+  text-align: center;
+}
+.heading {
+  font-size: 35px;
+  font-family: Bree Serif;
+  color: #f0bb03;
+}
+.para {
+  font-family: Bree Serif;
+  color: #ffffff;
+}
